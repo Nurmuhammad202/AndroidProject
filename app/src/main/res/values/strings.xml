@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_title">sunt aut facere repellat provident occaecati excepturi optio reprehenderit</string>
+    <string name="post_text">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto</string>
+</resources>
